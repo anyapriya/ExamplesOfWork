@@ -1,0 +1,339 @@
+cnt,lang
+1160725,JavaScript
+871264,CSS
+814370,HTML
+671755,Shell
+567150,Python
+399850,Ruby
+389940,Java
+370537,PHP
+315057,C
+298583,C++
+263379,Makefile
+184731,Objective-C
+138872,C#
+113560,Perl
+103957,Batchfile
+92791,Go
+89626,ApacheConf
+76760,CoffeeScript
+57036,CMake
+53347,Assembly
+42960,Swift
+39225,TypeScript
+37556,ASP
+36244,Scala
+35945,XSLT
+35831,Lua
+33457,Groff
+33427,Haskell
+33122,TeX
+32617,PowerShell
+29673,R
+28783,Groovy
+27777,Clojure
+24980,VimL
+24355,Awk
+22805,Arduino
+20895,Matlab
+19358,Objective-C++
+18485,QMake
+18330,Smarty
+18193,Emacs Lisp
+16683,Yacc
+16338,Puppet
+16319,Erlang
+16077,Protocol Buffer
+16068,M4
+16054,Rust
+15680,Scilab
+15282,Lex
+14377,GLSL
+12942,Jupyter Notebook
+12397,Visual Basic
+12196,Prolog
+12077,UnrealScript
+11977,SourcePawn
+11967,Nginx
+10943,Pascal
+9911,ActionScript
+9819,Cucumber
+9333,PLpgSQL
+8884,NSIS
+8718,Tcl
+8635,Perl6
+8565,Roff
+7856,D
+7838,Handlebars
+7770,Scheme
+7649,Vim script
+7375,PLSQL
+7049,Processing
+6779,Julia
+6769,Elixir
+6257,OCaml
+6168,F#
+6098,Common Lisp
+5919,IDL
+5898,SQLPL
+5841,Dart
+5762,Smalltalk
+5575,QML
+5438,Vue
+5384,Logos
+5282,M
+4863,PostScript
+4838,FORTRAN
+4556,GAP
+4478,AppleScript
+4407,Cuda
+4403,Mako
+4403,Kotlin
+4324,DIGITAL Command Language
+4283,Bison
+4117,SuperCollider
+4023,Racket
+3917,Inno Setup
+3621,Thrift
+3602,Haxe
+3401,FreeMarker
+3357,Gnuplot
+3268,DOT
+3189,GDB
+3093,XML
+3015,Verilog
+2950,Gherkin
+2878,OpenEdge ABL
+2849,Mathematica
+2817,Elm
+2738,Standard ML
+2666,ANTLR
+2621,Eagle
+2600,LiveScript
+2448,Ada
+2384,DTrace
+2297,XS
+2267,ColdFusion
+2222,Fortran
+2180,Nix
+2175,Vala
+2172,VHDL
+2075,Forth
+2004,HCL
+1978,SaltStack
+1793,Rebol
+1750,KiCad
+1708,OpenSCAD
+1588,Module Management System
+1565,SAS
+1450,AutoHotkey
+1398,GCC Machine Description
+1375,LLVM
+1265,XQuery
+1227,HLSL
+1196,CLIPS
+1170,Crystal
+1159,Pure Data
+1110,Ragel in Ruby Host
+1105,BitBake
+1104,eC
+1092,Stata
+1085,Max
+1060,SystemVerilog
+1040,FLUX
+1033,Coq
+1002,Liquid
+940,Web Ontology Language
+910,Brainfuck
+909,NewLisp
+901,AspectJ
+876,Xtend
+832,AMPL
+830,API Blueprint
+819,Nimrod
+815,PureScript
+814,Eiffel
+785,PAWN
+764,Gettext Catalog
+740,Apex
+733,SQL
+730,AGS Script
+716,Io
+706,Mask
+700,Mercury
+695,SQF
+693,COBOL
+693,AutoIt
+685,Cap'n Proto
+684,GDScript
+661,Diff
+635,Modelica
+621,Hack
+619,POV-Ray SDL
+618,PigLatin
+586,Gosu
+568,PureBasic
+549,Arc
+532,BlitzBasic
+514,Lasso
+510,nesC
+506,EmberScript
+505,Slash
+502,DM
+499,XC
+483,ABAP
+478,Squirrel
+476,Game Maker Language
+466,RAML
+453,LSL
+452,JSONiq
+432,RobotFramework
+419,ShaderLab
+414,Nu
+402,RenderScript
+399,Volt
+399,Limbo
+383,E
+377,MoonScript
+375,LabVIEW
+375,Objective-J
+367,MAXScript
+361,CartoCSS
+356,xBase
+343,Nemerle
+329,Cirru
+325,Augeas
+315,1C Enterprise
+312,Meson
+304,LilyPond
+294,Clean
+292,Idris
+282,VCL
+282,Clarion
+275,Lean
+273,Delphi
+269,Nim
+261,Boo
+223,XProc
+220,Smali
+211,Jasmin
+203,Terra
+203,Agda
+201,Ragel
+183,J
+181,Frege
+172,Hy
+171,Ceylon
+166,Bro
+166,Turing
+163,SRecode Template
+159,Pan
+157,Zephir
+155,Redcode
+151,SMT
+149,Component Pascal
+147,Metal
+143,PicoLisp
+141,Isabelle
+139,NetLogo
+138,Propeller Spin
+137,Genshi
+130,ooc
+128,Parrot
+125,Factor
+123,Fancy
+122,Stan
+119,Modula-2
+119,Click
+118,Dylan
+118,Monkey
+111,Pike
+109,Harbour
+109,ChucK
+103,APL
+103,WebIDL
+100,Alloy
+98,Brightscript
+95,LOLCODE
+90,Rascal
+86,Red
+82,UrWeb
+81,Cycript
+80,IGOR Pro
+79,mupad
+78,Kit
+76,Oz
+76,Csound Document
+74,Papyrus
+70,Csound Score
+70,Xojo
+69,Csound
+69,Myghty
+67,Graphviz (DOT)
+66,HyPhy
+64,Opa
+64,Pony
+57,NCL
+57,GAMS
+56,Inform 7
+55,BlitzMax
+53,Bluespec
+52,Chapel
+50,TLA
+50,Logtalk
+47,JFlex
+47,LookML
+47,REXX
+47,Cool
+47,Mirah
+46,Ren'Py
+44,XPages
+44,Ioke
+43,ATS
+41,Fantom
+40,Oxygene
+39,Zimpl
+34,Nit
+33,DCPU-16 ASM
+32,CWeb
+31,Golo
+30,KRL
+30,Self
+30,MQL4
+30,Grammatical Framework
+30,Uno
+29,Ecl
+28,Dogescript
+27,NetLinx
+26,MQL5
+25,wisp
+21,Moocode
+21,TXL
+20,P4
+18,ShellSession
+18,Ox
+18,X10
+17,REALbasic
+17,Shen
+15,Filebench WML
+15,PowerBuilder
+14,Tea
+14,Grace
+14,ECL
+13,Rouge
+13,EQ
+12,PogoScript
+12,MTML
+11,Glyph
+10,Pep8
+9,TI Program
+8,Charity
+8,Genie
+8,Jolie
+8,LoomScript
+7,Opal
+4,Omgrofl
+4,Befunge
+4,RUNOFF
+3,NetLinx+ERB
+0,
