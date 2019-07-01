@@ -4,13 +4,13 @@ Examples of code that I've done for various personal and school projects
 
 ## Skills shown in this repository: 
 - Languages:
-  - Python
-    - [LSE - Statistical Computing/Particle Swarm Optimization](Particle Swarm Optimization)
+  - Python: 
+    - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)
 
 - Skills:
   - Optimization
-    - [LSE - Statistical Computing/Particle Swarm Optimization](Particle Swarm Optimization)
+    - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)  
   - Distributed Computing 
-    - [LSE - Statistical Computing/Particle Swarm Optimization](Particle Swarm Optimization)
+    - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)
   - Functional Programming
-    - [LSE - Statistical Computing/Particle Swarm Optimization](Particle Swarm Optimization)
+    - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)
