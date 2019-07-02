@@ -19,5 +19,5 @@ Examples of code that I've done for various personal and school projects
   - Functional Programming
     - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)
   - Artificial Intelligence & Deep Learning
-    - [Neural Networks Assignment](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/Assignment1)
-    - [Reinforcement Learning Assignment](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/Assignment2)
+    - [Neural Networks Assignment](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment)
+    - [Reinforcement Learning Assignment](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/ReinforcementLearningAssignment)
