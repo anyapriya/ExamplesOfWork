@@ -1,5 +1,6 @@
-# homework2019-1
+# Distributed Computing for Big Data Homework 1
 
-first summative assignment
+The assignment itself is [here](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/homework-1.ipynb).
 
-Deadline: February 27, 2018, 5pm London time
+Part A focuses on Spark RDDs, Part B focuses on Spark SQL, and Part C focuses on Hive.  My work is [here](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb.ipynb).  
+
