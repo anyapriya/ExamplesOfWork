@@ -10,6 +10,14 @@ Examples of code that I've done for various personal and school projects
     - [LSE - Managing and Visualizing Data](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Managing%20and%20Visualizing%20Data)
     - [LSE - Distributed Computing for Big Data](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data)
 
+- Stacks, Packages, Libraries, Tools, etc:
+  - Tensorflow
+    - [Neural Networks Assignment Part 1](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P1.ipynb)
+    - [Neural Networks Assignment Part 2](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P2.ipynb)
+  - Keras
+    - [Neural Networks Assignment Part 3](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P3.ipynb)
+
+    
 
 - Skills:
   - Optimization
