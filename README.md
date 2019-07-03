@@ -41,6 +41,8 @@ Examples of code that I've done for various personal and school projects
     - [Neural Networks Assignment Part 1](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P1.ipynb)
     - [Neural Networks Assignment Part 2](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P2.ipynb)
     - [Managing and Visualizing Data Assignment 10](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment10.ipynb)
+  - Pandas
+    - [Managing and Visualizing Data - Final Project](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/FinalProject.ipynb)
   - Matplotlib
     - [Neural Networks Assignment Part 1](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P1.ipynb)
     - [Neural Networks Assignment Part 2](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P2.ipynb)
@@ -48,6 +50,7 @@ Examples of code that I've done for various personal and school projects
     - [Managing and Visualizing Data Assignment 6](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment6.ipynb)
     - [Managing and Visualizing Data Assignment 8](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment8.ipynb)
     - [Managing and Visualizing Data Assignment 10](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment10.ipynb)
+    - [Managing and Visualizing Data - Final Project](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/FinalProject.ipynb)
   - SciKit-Learn (SKLearn)
     - [Managing and Visualizing Data Assignment 8](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment8.ipynb)
     - [Managing and Visualizing Data Assignment 10](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment10.ipynb)
@@ -67,6 +70,7 @@ Examples of code that I've done for various personal and school projects
 
   - Functional Programming
     - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)
+    - [Managing and Visualizing Data - Final Project](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/FinalProject.ipynb)
   - Machine Learning & Data Mining
     - [Managing and Visualizing Data Assignment 10](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment10.ipynb)
   - Artificial Intelligence & Deep Learning
@@ -76,5 +80,8 @@ Examples of code that I've done for various personal and school projects
     - [Managing and Visualizing Data Assignment 4](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment4.ipynb)
   - Data Manipulation & Cleaning
     - [Managing and Visualizing Data Assignment 6](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment6.ipynb)
+    - [Managing and Visualizing Data - Final Project](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/FinalProject.ipynb)
   - NLP
     - [Distributed Computing for Big Data Homework 2 - Part 3 NLP](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part3-NLP)
+  - Webscraping
+    - [Managing and Visualizing Data - Final Project](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/FinalProject.ipynb)
