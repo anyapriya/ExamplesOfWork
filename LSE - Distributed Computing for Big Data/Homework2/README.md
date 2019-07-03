@@ -2,10 +2,8 @@
 ## Homework 2
 ---
 
-This assignment consists of four parts. 
 
-* P1: [Querying the YAGO semantic knowledge base](hw_yago_local.ipynb)
-* P2: [Spark streaming of tweets](hw_tweet.ipynb)
-* P3: [Topic modelling for DBLP](hw_dblp.ipynb)
-* P4: [Optimisation methods](opt_questions.pdf)
+* P1: [Querying the YAGO semantic knowledge base](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/hw_yago_localfinal.ipynb)
+* P2: [Spark streaming of tweets](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/hw_tweet.ipynb)
+* P3: [Topic modelling for DBLP](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/hw_dblp.ipynb)
 
