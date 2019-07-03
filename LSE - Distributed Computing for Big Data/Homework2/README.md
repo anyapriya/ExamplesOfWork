@@ -1,4 +1,4 @@
-# ST446 Distributed Computing for Big Data
+# ST446 Distributed Computing for Big Data - GCP, Spark, Graphframes, Kafka, NLP
 ## Homework 2
 ---
 
