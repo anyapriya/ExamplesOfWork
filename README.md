@@ -26,8 +26,9 @@ Examples of code that I've done for various personal and school projects
     - [Distributed Computing for Big Data Homework 2 - Part 1 Spark Graphframes](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part1-SparkGraphframes)
     - [Distributed Computing for Big Data Homework 2 - Part 2 Kafka](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part2-Kafka)
     - [Distributed Computing for Big Data Homework 2 - Part 3 NLP](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part3-NLP)
-  - Hive
+  - Hadoop & Hive
     - [Distributed Computing for Big Data Homework 1 - SEE PART C](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb)
+    - [Distributed Computing for Big Data Homework 2 - Part 1 Spark Graphframes](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part1-SparkGraphframes)
   - Kafka
     - [Distributed Computing for Big Data Homework 2 - Part 2 Kafka](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part2-Kafka)
   - Tensorflow
