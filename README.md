@@ -12,15 +12,24 @@ Examples of code that I've done for various personal and school projects
   - SQL
     - [Distributed Computing for Big Data Homework 1 - SEE PART B](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb)
     - [Managing and Visualizing Data Assignment 4](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment4.ipynb)
+    - [Distributed Computing for Big Data Homework 2 - Part 1 Spark Graphframes](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part1-SparkGraphframes)
+
 
 ### Stacks, Packages, Libraries, Tools, etc:
   - Google Cloud Platform (GCP)
     - [Distributed Computing for Big Data Homework 1](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb)
-    - [Distributed Computing for Big Data Homework 2](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2)
-  - Spark
+    - [Distributed Computing for Big Data Homework 2 - Part 1 Spark Graphframes](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part1-SparkGraphframes)
+    - [Distributed Computing for Big Data Homework 2 - Part 2 Kafka](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part2-Kafka)
+    - [Distributed Computing for Big Data Homework 2 - Part 3 NLP](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part3-NLP)
+  - Spark & Graphframes
     - [Distributed Computing for Big Data Homework 1 - SEE PARTS A AND B](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb)
+    - [Distributed Computing for Big Data Homework 2 - Part 1 Spark Graphframes](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part1-SparkGraphframes)
+    - [Distributed Computing for Big Data Homework 2 - Part 2 Kafka](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part2-Kafka)
+    - [Distributed Computing for Big Data Homework 2 - Part 3 NLP](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part3-NLP)
   - Hive
     - [Distributed Computing for Big Data Homework 1 - SEE PART C](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb)
+  - Kafka
+    - [Distributed Computing for Big Data Homework 2 - Part 2 Kafka](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part2-Kafka)
   - Tensorflow
     - [Neural Networks Assignment Part 1](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P1.ipynb)
     - [Neural Networks Assignment Part 2](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning/NeuralNetworksAssignment/AIAssignment1P2.ipynb)
@@ -50,6 +59,11 @@ Examples of code that I've done for various personal and school projects
     - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)  
   - Distributed Computing 
     - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)
+    - [Distributed Computing for Big Data Homework 1](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb)
+    - [Distributed Computing for Big Data Homework 2 - Part 1 Spark Graphframes](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part1-SparkGraphframes)
+    - [Distributed Computing for Big Data Homework 2 - Part 2 Kafka](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part2-Kafka)
+    - [Distributed Computing for Big Data Homework 2 - Part 3 NLP](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part3-NLP)
+
   - Functional Programming
     - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)
   - Machine Learning & Data Mining
@@ -61,3 +75,5 @@ Examples of code that I've done for various personal and school projects
     - [Managing and Visualizing Data Assignment 4](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment4.ipynb)
   - Data Manipulation & Cleaning
     - [Managing and Visualizing Data Assignment 6](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment6.ipynb)
+  - NLP
+    - [Distributed Computing for Big Data Homework 2 - Part 3 NLP](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part3-NLP)
