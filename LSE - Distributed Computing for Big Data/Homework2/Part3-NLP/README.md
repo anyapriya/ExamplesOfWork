@@ -1,8 +1,7 @@
 
 # Problem 3: NLP Topic modelling for DBLP
 * Instructions below
-* Code and Summary: [here](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/
-Part3-NLP/hw_dblp.ipynb)
+* Code and Summary: [here](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part3-NLP/hw_dblp.ipynb)
 
 ### 1) Create bucket and cluster 
 
@@ -55,6 +54,5 @@ Address bar of chrome that opens up
 http://anyacluster02apr2019-m:8123
 ```
 
-### 4) Run [file](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/
-Part3-NLP/hw_dblp.ipynb)
+### 4) Run [file](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2/Part3-NLP/hw_dblp.ipynb)
 
