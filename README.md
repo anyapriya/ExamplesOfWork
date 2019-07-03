@@ -3,7 +3,7 @@ Examples of code that I've done for various personal and school projects
 
 
 ## Skills shown in this repository: 
-- Languages:
+### Languages:
   - Python: 
     - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)
     - [LSE - Artificial Intelligence and Deep Learning](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Artificial%20Intelligence%20and%20Deep%20Learning)
@@ -13,7 +13,7 @@ Examples of code that I've done for various personal and school projects
     - [Distributed Computing for Big Data Homework 1 - SEE PART B](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb)
     - [Managing and Visualizing Data Assignment 4](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Managing%20and%20Visualizing%20Data/Assignment%2010/Assignment4.ipynb)
 
-- Stacks, Packages, Libraries, Tools, etc:
+### Stacks, Packages, Libraries, Tools, etc:
   - Google Cloud Platform (GCP)
     - [Distributed Computing for Big Data Homework 1](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework1/Homework1.ipynb)
     - [Distributed Computing for Big Data Homework 2](https://github.com/anyapriya/ExamplesOfWork/blob/master/LSE%20-%20Distributed%20Computing%20for%20Big%20Data/Homework2)
@@ -45,7 +45,7 @@ Examples of code that I've done for various personal and school projects
 
 
 
-- Skills:
+### Skills:
   - Optimization
     - [Particle Swarm Optimization](https://github.com/anyapriya/ExamplesOfWork/tree/master/LSE%20-%20Statistical%20Computing/Particle%20Swarm%20Optimization)  
   - Distributed Computing 
